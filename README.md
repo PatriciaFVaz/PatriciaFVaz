@@ -1,5 +1,5 @@
 ### Olá, sou a Patricia! 👋
-
+- 🌱 Graduação Análise de desenvolvimento de sistemas - Unicesumar
 - 🌱 Estudando React.Js
 - 😄 Pronouns: ela/dela
 
